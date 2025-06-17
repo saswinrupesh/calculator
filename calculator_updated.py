@@ -135,5 +135,3 @@ def calculator():
             print("Invalid input. Please enter 'yes' or 'no'.")
         
 calculator()
-
-#explanations
